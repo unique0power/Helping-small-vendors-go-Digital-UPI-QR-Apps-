@@ -1,0 +1,6 @@
+@DigitalDukaan.API_HostAddress = http://localhost:5070
+
+GET {{DigitalDukaan.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

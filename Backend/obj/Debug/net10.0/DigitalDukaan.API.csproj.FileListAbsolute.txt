@@ -1,0 +1,8 @@
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\DigitalDukaan.API.csproj.AssemblyReference.cache
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\DigitalDukaan.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\DigitalDukaan.API.AssemblyInfoInputs.cache
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\DigitalDukaan.API.AssemblyInfo.cs
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\DigitalDukaan.API.csproj.CoreCompileInputs.cache
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\DigitalDukaan.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amit\.gemini\antigravity-ide\scratch\DigitalDukaan\Backend\obj\Debug\net10.0\DigitalDukaan.API.MvcApplicationPartsAssemblyInfo.cache
